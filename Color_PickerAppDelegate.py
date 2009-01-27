@@ -3,7 +3,7 @@
 #  Color Picker
 #
 #  Created by Casey Marshall on 1/26/09.
-#  Copyright Pacific Biosciences 2009. All rights reserved.
+#  Copyright Casey Marshall 2009. All rights reserved.
 #
 
 from Foundation import *
